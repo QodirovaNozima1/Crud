@@ -1,0 +1,9 @@
+@import "tailwindcss";
+.online-status{
+  animation: onlineStatus .3s ease-in 1s   forwards;
+}
+@keyframes onlineStatus {
+  to{
+      margin-bottom: -25px;
+  }
+}
