@@ -13,7 +13,7 @@ const home = () => {
             window.location.href="./users"
         }
       }>users</button>
-      <p className='mt-10'>Looks like this</p>
+      <p className='mt-10'>like this</p>
       <img src={foto} className='w-[400px] bg-center' alt="" />
         </div>
       <Onlinestatus/>
